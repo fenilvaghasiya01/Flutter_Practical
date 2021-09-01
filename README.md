@@ -1,18 +1,18 @@
 # Flutter_Practical
 
-Practical-1
+**Practical-1**
 
 AIM: Create “Custom Message” application. That will display “Custom Message” in the middle of the screen in the Black color with the Yellow background.
 
-Practical-2
+**Practical-2**
 
 AIM: Create an android application to calculate sum of two numbers and gives result in Toast Message.
 
-Practical-3
+**Practical-3**
 
 AIM: Implement the Chronometer
 
-Practical-4
+**Practical-4**
 
 AIM: Create a login app with following features:
 1. Successful Login message in TextViewwith Green background if Username & password is correct
@@ -20,11 +20,11 @@ AIM: Create a login app with following features:
 3. Disable Login Button after three wrong login attempts.
 4. Close application if user selects Cancel Button
 
-Practical-5
+**Practical-5**
 
 AIM: Create an App to demonstrate Notifications with different features.
 
-Practical-6
+**Practical-6**
 
 AIM: Develop an application which shows different types of contents in different views/Layout 
 like CardView, ListView, GridView, ScrollView, Fragment, TabbedView, WebView etc.
@@ -35,16 +35,16 @@ Flutter have total 5 Main Views :
 4. Scroll View
 5. Stack View
 
-Practical-7
+**Practical-7**
 
 AIM: Develop an app anyone whichever applicable to you!
 1. Develop an app to demonstrate the use of SQLite Database with android. Provide allCRUD operations.
 
-Practical-8
+**Practical-8**
 
 AIM: Create an application to work with data management(Store, retrieve, edit,delete) using firebase.
 
-Practical-9
+**Practical-9**
 
 AIM: Develop an application which shows Navigation Drawer(from L->R or R->L) and Menu
 
