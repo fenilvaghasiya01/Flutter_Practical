@@ -48,7 +48,8 @@ Practical-9
 
 AIM: Develop an application which shows Navigation Drawer(from L->R or R->L) and Menu
 
-Practical-10
+**Practical-10**
+
 AIM: Create an application to work with 3rd party API to send and retrieve data
 
 
